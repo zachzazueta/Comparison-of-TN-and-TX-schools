@@ -33,11 +33,11 @@ If I uncovered a p-value < 0.05 (my alpha level of significance), I had enough e
 ## Findings
 In TN, performance in HS English and ELA showed statistically significant differences in the change in student performance levels as a result of school growth.
 
-In TX, campuses that shrank (those with negative growth rates) saw greater gains in proficiency levels than those campuses that grew over the same time period.
-
 ![alt_text](https://github.com/zachzazueta/Comparison-of-TN-and-TX-schools/blob/main/1718TN.png)
 
 ![alt_text](https://github.com/zachzazueta/Comparison-of-TN-and-TX-schools/blob/main/1819TN.png)
+
+In TX, campuses that shrank (those with negative growth rates) saw greater gains in proficiency levels than those campuses that grew over the same time period.
 
 ![alt_text](https://github.com/zachzazueta/Comparison-of-TN-and-TX-schools/blob/main/1718TX.png)
 
